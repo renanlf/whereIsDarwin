@@ -1,0 +1,4 @@
+classification/videos/*
+classification/frames/*
+dataset/*
+.vscode/*
